@@ -169,7 +169,7 @@ const projects = [
   },
   {
     title: "EVibe Research Paper",
-    description: "Attempts to find trends in stock prices and predict future prices",
+    description: "Ongoing Research Paper on a dynamic wireless charging of EVs focusing on Anti Collision protection systems",
     technologies: [
       { name: "Electronics", color: "bg-blue-200" },
       { name: "Power Engineering", color: "bg-yellow-200" },
@@ -208,8 +208,8 @@ const internships = [
     ],
   },
   {
-    title: "Software Engineering Intern - BPrep",
-    description: "Developed web applications for the BPrep platform",
+    title: "Software Engineer - BPrep",
+    description: "Updated and developed web applications for the BPrep platform",
     technologies: [
       { name: "React", color: "bg-amber-200" },
       { name: "Next.js", color: "bg-blue-200" },
@@ -235,7 +235,7 @@ const internships = [
 const competitions = [
   {
     title: "EMC Global Japan",
-    description: "Won the Entrepreneurship competition from India and a sponsor trip to Japan for sightseeing",
+    description: "Won the Entrepreneurship competition from India and got a chance to pitch in the EMC Global E-Summit held in Tokyo in Feb 2025",
   },
   {
     title: "Smart India Hackathon 2024 - 1st Prize",
